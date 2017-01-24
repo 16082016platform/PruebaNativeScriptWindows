@@ -1,0 +1,5 @@
+<Page>
+    <AbsoluteLayout>
+        <Button text="Button 1" left="100" top="100" />
+    </AbsoluteLayout>
+</Page>

@@ -1,0 +1,6 @@
+<Page>
+  <StackLayout>
+    <Label text="Hello, this is Main!" />
+    <Button text="Go to Page1" tap="buttonForwardTap" />
+  </StackLayout>
+</Page>
